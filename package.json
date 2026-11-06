@@ -9,7 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@fewchurs/next": "^1.5.0",
+    "@fewchurs/next": "^1.7.0",
     "next": "16.4.5",
     "react": "19.3.0",
     "react-dom": "19.3.0"
