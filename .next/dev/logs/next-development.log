@@ -1,0 +1,22 @@
+{"timestamp":"00:00:00.636","source":"Server","level":"LOG","message":"- Cache Components enabled"}
+{"timestamp":"00:00:00.636","source":"Server","level":"LOG","message":"- Partial Prefetching enabled"}
+{"timestamp":"00:00:00.636","source":"Server","level":"LOG","message":"- Experiments (use with caution):"}
+{"timestamp":"00:00:00.636","source":"Server","level":"LOG","message":"  ✓ agentFeedback"}
+{"timestamp":"00:00:00.636","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:01.819","source":"Server","level":"WARN","message":"[fewchurs] : Fewchurs rejected the API key. Check the key in your dashboard (Apps → API keys)."}
+{"timestamp":"00:00:02.276","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:02.357","source":"Browser","level":"WARN","message":"[fewchurs] : Request failed (404)."}
+{"timestamp":"00:00:02.367","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33m[fewchurs] : Request failed (404).\\u001b[39m\""}
+{"timestamp":"00:00:23.652","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:23.788","source":"Browser","level":"WARN","message":"[fewchurs] : Request failed (404)."}
+{"timestamp":"00:00:23.789","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33m[fewchurs] : Request failed (404).\\u001b[39m\""}
+{"timestamp":"00:00:31.473","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:31.527","source":"Browser","level":"WARN","message":"[fewchurs] : Request failed (404)."}
+{"timestamp":"00:00:31.528","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33m[fewchurs] : Request failed (404).\\u001b[39m\""}
+{"timestamp":"00:00:57.835","source":"Server","level":"LOG","message":"  Reload env: .env.local"}
+{"timestamp":"00:09:35.758","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:09:43.806","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:09:53.641","source":"Server","level":"LOG","message":"  Reload env: .env.local"}
+{"timestamp":"00:09:54.529","source":"Server","level":"WARN","message":"[fewchurs] : Fewchurs rejected the API key. Check the key in your dashboard (Apps → API keys)."}
+{"timestamp":"00:09:59.250","source":"Browser","level":"WARN","message":"[fewchurs] : Fewchurs rejected the API key. Check the key in your dashboard (Apps → API keys)."}
+{"timestamp":"00:09:59.252","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33m[fewchurs] : Fewchurs rejected the API key. Check the key in your dashboard (Apps → API keys).\\u001b[39m\""}

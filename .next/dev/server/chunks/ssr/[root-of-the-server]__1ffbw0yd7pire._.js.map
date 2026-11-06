@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 19, "column": 0}, "map": {"version":3,"sources":["file:///Users/ahmatafthal/myapp/app/favicon.ico.mjs%20(structured%20image%20object)"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 48, height: 48 }\n"],"names":["src","width","height"],"mappings":";;;;AAAA;;uCACe;IAAEA,KAAAA,mIAAG;IAAEC,OAAO;IAAIC,QAAQ;AAAG"}},
+    {"offset": {"line": 34, "column": 0}, "map": {"version":3,"sources":["file:///Users/ahmatafthal/myapp/app/feedback/page.tsx"],"sourcesContent":["import { FewchursBoard } from \"@fewchurs/next\";\nimport \"@fewchurs/next/styles.css\";\n\nexport default function FeedbackPage() {\n  return <FewchursBoard />;\n}\n"],"names":["FeedbackPage"],"mappings":";;;;;AAAA;;;;AAGe,SAASA;IACtB,qBAAO,8OAAC,qLAAa;;;;;AACvB"}}]
+}

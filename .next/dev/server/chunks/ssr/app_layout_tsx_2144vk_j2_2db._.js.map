@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/ahmatafthal/myapp/app/layout.tsx"],"sourcesContent":["import type { Metadata } from \"next\";\nimport \"./globals.css\";\nimport { FewchursButton } from \"@fewchurs/next\";\n\nexport const metadata: Metadata = {\n  title: \"myapp\",\n};\n\nexport default function RootLayout({ children }: LayoutProps<\"/\">) {\n  return (\n    <html lang=\"en\">\n      <body>\n        {children} <FewchursButton floating />\n      </body>\n    </html>\n  );\n}\n"],"names":["metadata","title","RootLayout","children","lang","floating"],"mappings":";;;;;;;AAEA;;;;AAEO,MAAMA,WAAqB;IAChCC,OAAO;AACT;AAEe,SAASC,WAAW,EAAEC,QAAQ,EAAoB;IAC/D,qBACE,8OAAC;QAAKC,MAAK;kBACT,cAAA,8OAAC;;gBACED;gBAAS;8BAAC,8OAAC,sLAAc;oBAACE,QAAQ;;;;;;;;;;;;;;;;;AAI3C"}}]
+}
