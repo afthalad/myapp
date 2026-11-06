@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 90, "column": 0}, "map": {"version":3,"sources":["file:///Users/ahmatafthal/myapp/app/api/fewchurs/[...route]/route.ts"],"sourcesContent":["// app/api/fewchurs/[...route]/route.ts\nexport { GET, POST, DELETE } from \"@fewchurs/next/handler\";\n"],"names":[],"mappings":"AAAA,uCAAuC"}}]
-}
