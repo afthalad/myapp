@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import "./globals.css";
 import { FewchursButton } from "@fewchurs/next";
 
@@ -10,7 +11,10 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="en">
       <body>
-        {children} <FewchursButton floating />
+        {children}
+        <Suspense fallback={null}>
+          <FewchursButton floating />
+        </Suspense>
       </body>
     </html>
   );
